@@ -1,4 +1,4 @@
-media: files
+assets: files
 content:
   - name: posts
     label: Posts
